@@ -19,7 +19,7 @@ namespace GithubTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Tuk tuk");
+            MessageBox.Show("Ťuk ťuk");
         }
 
         private void button2_Click(object sender, EventArgs e)
