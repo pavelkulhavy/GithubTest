@@ -24,7 +24,7 @@ namespace GithubTest
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Tuk tuk tuk");
+            MessageBox.Show("Ťuk ťuk ťuk");
         }
     }
 }
